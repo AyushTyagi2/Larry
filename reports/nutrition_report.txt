@@ -1,0 +1,18 @@
+Nutrition Report (2025-04-24 to 2025-04-30)
+
+Daily Goals: 2000 calories, 150.0g protein, 200.0g carbs, 65.0g fat
+
+Average Daily Intake:
+  Calories: 0.0 (0.0% of goal)
+  Protein: 0.0g (0.0% of goal)
+  Carbs: 0.0g (0.0% of goal)
+  Fat: 0.0g (0.0% of goal)
+
+Daily Breakdown:
+  2025-04-24: 0 calories, 0.0g protein, 0.0g carbs, 0.0g fat
+  2025-04-25: 0 calories, 0.0g protein, 0.0g carbs, 0.0g fat
+  2025-04-26: 0 calories, 0.0g protein, 0.0g carbs, 0.0g fat
+  2025-04-27: 0 calories, 0.0g protein, 0.0g carbs, 0.0g fat
+  2025-04-28: 0 calories, 0.0g protein, 0.0g carbs, 0.0g fat
+  2025-04-29: 0 calories, 0.0g protein, 0.0g carbs, 0.0g fat
+  2025-04-30: 0 calories, 0.0g protein, 0.0g carbs, 0.0g fat
