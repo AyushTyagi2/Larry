@@ -101,15 +101,9 @@ We 💙 contributions!
 
 ---
 
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙋 About
 
-Created by \[Your Name] — a student passionate about building intelligent and scalable assistants.
+Created by Ayush Tyagi — a student passionate about building intelligent and scalable assistants.
 
 > If you like this project, please consider giving it a ⭐!
 
