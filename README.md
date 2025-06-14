@@ -1,11 +1,10 @@
-Here’s your full **`README.md`** for the **Larry the VLA (Versatile Language Agent)** project — a single, polished, ready-to-publish file for GitHub or any portfolio:
 
 ---
 
 ````markdown
 # 🤖 Larry the VLA - Versatile Language Agent
 
-**Larry** is a powerful, modular, and personal assistant bot capable of handling a wide range of tasks using both voice and text commands. Designed to be lightweight and extensible, Larry can help you manage emails, files, PDFs, translations, and much more — all from your terminal.
+Larry is a powerful, modular, and personal assistant bot capable of handling a wide range of tasks using both voice and text commands. Designed to be lightweight and extensible, Larry can help you manage emails, files, PDFs, translations, and much more — all from your terminal.
 
 > 💡 **VLA** = *Versatile Language Agent* — built to evolve with your needs.
 
