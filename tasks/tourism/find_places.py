@@ -1,7 +1,7 @@
 import requests
 
 def find_places(city_name):
-    API_KEY = ""  # Replace with your Google Places API key
+    API_KEY = "AIzaSyB0uzvLo7l9Z9GJcTM7j-SHJwXEJtHFlso"  # Replace with your Google Places API key
     BASE_URL = "https://maps.googleapis.com/maps/api/place/textsearch/json"
     
     # Prepare the search query
@@ -28,5 +28,3 @@ def find_places(city_name):
             print(f"- {name}: {address}")
     else:
         print("No results found or error occurred. Please check the city name and try again.")
-
-#AIzaSyB0uzvLo7l9Z9GJcTM7j-SHJwXEJtHFlso
