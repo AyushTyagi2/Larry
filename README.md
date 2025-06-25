@@ -6,7 +6,7 @@
  Designed to be lightweight and extensible, Larry can help you manage emails, files, PDFs, translations,
  and much more — all from your terminal.
 
-> 💡 **VLA** = *Versatile Language Agent* — built to evolve with your needs.
+ 💡 **VLA** = *Versatile Language Agent* — built to evolve with your needs.
 
 ---
 
@@ -34,7 +34,7 @@ Larry currently supports the following functionalities:
 18. 🥗 Calorie counter  
 19. 💸 Expense tracker
 
-> “Hey fam, I know the features are limited but we’re working on it. And with the way Larry’s designed, the possibilities are endless.”
+ “Hey fam, I know the features are limited but we’re working on it. And with the way Larry’s designed, the possibilities are endless.”
 
 ---
 
@@ -47,7 +47,7 @@ Larry is structured around a **simple yet powerful design philosophy**: _“Add 
 - Want a new feature? Just drop in a new folder in `tasks/` and route to it.
 - There is **no tight coupling**, so modules don’t interfere with each other.
 
-> ✅ This makes Larry **extremely scalable** — there's practically no limit to how many features you can add.
+ ✅ This makes Larry **extremely scalable** — there's practically no limit to how many features you can add.
 
 ---
 
@@ -105,4 +105,4 @@ We 💙 contributions!
 
 Created by Ayush Tyagi — a student passionate about building intelligent and scalable assistants.
 
-> If you like this project, please consider giving it a ⭐!
+ If you like this project, please consider giving it a ⭐!
