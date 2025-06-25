@@ -1,6 +1,5 @@
----
-
 ````markdown
+
 # 🤖 Larry the VLA - Versatile Language Agent
 
 Larry is a powerful, modular, and personal assistant bot capable of handling a wide range of tasks using both voice and text commands. Designed to be lightweight and extensible, Larry can help you manage emails, files, PDFs, translations, and much more — all from your terminal.
